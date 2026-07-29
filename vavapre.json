@@ -1,0 +1,259 @@
+{
+  "appIdentity": {
+    "brand": {
+      "name": "Vava",
+      "edition": "Style Studio"
+    },
+    "region": {
+      "locale": "en-US",
+      "market": "global"
+    }
+  },
+  "userProfile": {
+    "id": "usr_1048",
+    "display": {
+      "name": "Maya Chen",
+      "handle": "maya_glow"
+    }
+  },
+  "stylePreferences": {
+    "moods": [
+      "minimal",
+      "celestial"
+    ],
+    "metals": {
+      "primary": "renjisomething",
+      "secondary": "silver"
+    }
+  },
+  "homeHero": {
+    "campaign": {
+      "title": "Chasing Crystal Dreams",
+      "tagline": "Statement pieces for bold nights"
+    },
+    "theme": {
+      "accent": "#C000A0",
+      "secondary": "#00BFAE"
+    }
+  },
+  "searchConfig": {
+    "placeholder": "Search styles, earrings...",
+    "suggestions": {
+      "recent": [
+        "hoops",
+        "drop studs"
+      ],
+      "trending": [
+        "celestial",
+        "sculptural"
+      ]
+    }
+  },
+  "notificationCenter": {
+    "unread": 3,
+    "channels": {
+      "styleAlerts": true,
+      "messageAlerts": true
+    }
+  },
+  "moodCollections": {
+    "featured": [
+      {
+        "id": "m01",
+        "name": "Festival Fever"
+      },
+      {
+        "id": "m02",
+        "name": "Minimal Magic"
+      }
+    ],
+    "paging": {
+      "cursor": "mood_02",
+      "hasMore": true
+    }
+  },
+  "faceShapeGuide": {
+    "status": "ready",
+    "tips": {
+      "portrait": "Front-facing photo",
+      "lighting": "Soft even light"
+    }
+  },
+  "seasonalCatalog": {
+    "season": "Summer Glow",
+    "items": {
+      "featured": [
+        "ear_201",
+        "ear_206"
+      ],
+      "total": 24
+    }
+  },
+  "jewelryItem": {
+    "id": "ear_201",
+    "details": {
+      "name": "Molten Gold Hoops",
+      "material": "Gold-tone alloy",
+      "style": "Bold"
+    }
+  },
+  "savedStyles": {
+    "count": 8,
+    "folders": {
+      "favorites": [
+        "ear_201",
+        "ear_206"
+      ],
+      "occasion": [
+        "ear_221"
+      ]
+    }
+  },
+  "exploreFeed": {
+    "items": [
+      "post_901",
+      "post_905"
+    ],
+    "pagination": {
+      "next": "feed_02",
+      "pageSize": 10
+    }
+  },
+  "creatorProfile": {
+    "id": "creator_77",
+    "identity": {
+      "handle": "luna_designs",
+      "displayName": "Luna Designs"
+    }
+  },
+  "communityPost": {
+    "id": "post_901",
+    "content": {
+      "caption": "Loving these neon hoops for the weekend!",
+      "tags": [
+        "HoopQueen",
+        "NeonVibe"
+      ]
+    }
+  },
+  "postEngagement": {
+    "postId": "post_901",
+    "counts": {
+      "likes": 428,
+      "comments": 37,
+      "saves": 91
+    }
+  },
+  "conversation": {
+    "id": "chat_301",
+    "participants": {
+      "current": "usr_1048",
+      "peer": "creator_77"
+    }
+  },
+  "messageThread": {
+    "conversationId": "chat_301",
+    "latest": {
+      "id": "msg_88",
+      "text": "Would these work for a summer wedding?",
+      "sentAt": "2026-07-20T10:45:00Z"
+    }
+  },
+  "presenceStatus": {
+    "userId": "creator_77",
+    "state": {
+      "label": "Online now",
+      "lastActive": "2026-07-20T10:46:00Z"
+    }
+  },
+  "mediaAttachment": {
+    "id": "media_501",
+    "asset": {
+      "type": "image",
+      "width": 1080,
+      "height": 1350
+    }
+  },
+  "aiStudio": {
+    "mode": "earring_try_on",
+    "engine": {
+      "ownership": "Vava in-house",
+      "version": "Vava-Vision-4"
+    }
+  },
+  "portraitInput": {
+    "id": "portrait_43",
+    "quality": {
+      "framing": "front-facing",
+      "score": 0.94
+    }
+  },
+  "tryOnSelection": {
+    "styleId": "ear_201",
+    "placement": {
+      "side": "pair",
+      "sizePercent": 65,
+      "lengthPercent": 40
+    }
+  },
+  "generationJob": {
+    "id": "gen_701",
+    "progress": {
+      "state": "completed",
+      "durationSeconds": 18
+    }
+  },
+  "generatedLook": {
+    "id": "look_701",
+    "output": {
+      "width": 1024,
+      "height": 1365,
+      "format": "jpeg"
+    }
+  },
+  "candyBalance": {
+    "available": 1250,
+    "usage": {
+      "generationCost": 100,
+      "lastGranted": 200
+    }
+  },
+  "recommendationSet": {
+    "id": "rec_803",
+    "context": {
+      "mood": "gallery night",
+      "weather": "warm"
+    }
+  },
+  "navigationState": {
+    "activeTab": "studio",
+    "tabs": {
+      "home": "Home",
+      "explore": "Explore",
+      "studio": "Studio",
+      "profile": "Profile"
+    }
+  },
+  "privacyControls": {
+    "portraitRetention": "temporary",
+    "permissions": {
+      "photos": "limited",
+      "camera": "prompt"
+    }
+  },
+  "accessibilitySettings": {
+    "textScale": 1,
+    "preferences": {
+      "reduceMotion": false,
+      "highContrast": false
+    }
+  },
+  "sessionTelemetry": {
+    "sessionId": "ses_662",
+    "device": {
+      "platform": "iOS",
+      "appVersion": "1.0.0",
+      "language": "en"
+    }
+  }
+}
